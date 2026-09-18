@@ -22,7 +22,7 @@ O TrainyX é uma infraestrutura de decisão prescritiva baseada em protocolos ma
 
 * **TX-KorteX:** O verdadeiro cérebro algorítmico do motor prescritivo e validação biomecânica. Ele é a digitalização exata da metodologia proprietária de força da Founder. Governa a *Anamnese Dinâmica v4.0* (Funil Clínico L1 a L4 / Portões *RED, YELLOW, GREEN*).
 * **TX-ThalamuX:** Agente de direcionamento, suporte contextual e experiência de alta fidelidade na ponta.
-* **TX-Pre-FrontaX & Nexor:** Inteligências executivas encarregadas da blindagem operacional, governança financeira e segurança do ecossistema.
+* **TX-PreFrontaX & Nexor:** Inteligências executivas encarregadas da blindagem operacional, governança financeira e segurança do ecossistema.
 * **TX-LobuloX & TX-SynapseX:** Camada autônoma de feedback, controle de desvios, auditoria e supervisão interna do sistema.
 
 ### 🛡️ Protocolo de Progressão Determinística (PDR) — As 4 Travas de Segurança
@@ -36,7 +36,7 @@ Toda a malha de agentes está sujeita às regras rígidas do kernel determiníst
 
 ### ⚖️ Notificação Legal de Uso, Direitos Autorais e Patentes
 
-Os algoritmos, códigos-fonte, estruturas lógicas de banco de dados, nomes e funções de agentes (TX-KorteX, TX-ThalamuX, TX-Pre-FrontaX, Nexor, TX-LobuloX, TX-SynapseX), regras do protocolo PDR e marcas associadas ao ecossistema **TrainyX** são protegidos por leis de direitos autorais de software (Lei nº 9.609/98) e propriedade industrial. 
+Os algoritmos, códigos-fonte, estruturas lógicas de banco de dados, nomes e funções de agentes (TX-KorteX, TX-ThalamuX, TX-PreFrontaX, Nexor, TX-LobuloX, TX-SynapseX), regras do protocolo PDR e marcas associadas ao ecossistema **TrainyX** são protegidos por leis de direitos autorais de software (Lei nº 9.609/98) e propriedade industrial. 
 
 * **Regime de Operação:** Todos os repositórios de produção permanecem sob estrito **Segredo Comercial Privado (Proprietary / Closed Source)**.
 * **Canais Oficiais:** [www.trainyx.xyz](https://www.trainyx.xyz) | Contact: contact@trainyx.xyz
