@@ -84,7 +84,7 @@ A reserva de direitos abrange as expressões originais, implementações e infor
 |---|---|
 | **TX-KorteX** | Motor prescritivo e componentes de validação, incluindo implementações do Dynamic Anamnesis Framework e das camadas de gating L1–L4. |
 | **TX-ThalamuX** | Roteamento contextual, processamento de feedback e camada de experiência de interface. |
-| **TX-Pre-FrontaX e Nexor** | Componentes de coordenação executiva, infraestrutura, segurança e roteamento transacional. |
+| **TX-PreFrontaX e Nexor** | Componentes de coordenação executiva, infraestrutura, segurança e roteamento transacional. |
 | **TX-LobuloX e TX-SynapseX** | Componentes de auditoria, telemetria, supervisão de execução e controle de deriva. |
 
 Os nomes identificam componentes do ecossistema. Sua inclusão não declara patente concedida, registro de marca ou classificação clínica ou regulatória.
