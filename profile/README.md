@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/TrainyX/.github/raw/a61dd58e821e8eb330bdb98cdff04baf69ddc8c3/trainyx-brand-hq.png" width="100%" alt="TrainyX conectado ao ecossistema SynergyXZK — branding oficial"></p>
+<p align="center"><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-brand-master.png" width="100%" alt="TrainyX conectado ao ecossistema SynergyXZK — branding oficial"></p>
 
 <p align="center"><strong>The Intelligence Layer for Human Performance.</strong><br>Metodologia proprietária · Inteligência aplicada · Performance humana</p>
 
