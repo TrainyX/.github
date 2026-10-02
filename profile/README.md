@@ -1,8 +1,8 @@
-<p align="center"><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-brand-hq.png" width="100%" alt="TrainyX conectado ao ecossistema SynergyXZK — branding oficial"></p>
+<p align="center"><img src="https://github.com/TrainyX/.github/raw/a61dd58e821e8eb330bdb98cdff04baf69ddc8c3/trainyx-brand-hq.png" width="100%" alt="TrainyX conectado ao ecossistema SynergyXZK — branding oficial"></p>
 
 <p align="center"><strong>The Intelligence Layer for Human Performance.</strong><br>Metodologia proprietária · Inteligência aplicada · Performance humana</p>
 
-<p align="center"><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-performance-hq.gif" width="100%" alt="Human Performance Engineered by AI — Metodologia, Consistência e Evolução"></p>
+<p align="center"><img src="https://github.com/TrainyX/.github/raw/a61dd58e821e8eb330bdb98cdff04baf69ddc8c3/trainyx-performance-hq.gif" width="100%" alt="Human Performance Engineered by AI — Metodologia, Consistência e Evolução"></p>
 
 <p align="center"><a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/SynergyXZK"><strong>SynergyXZK ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/a-valen3"><strong>Andreza Valen ↗</strong></a></p>
 
