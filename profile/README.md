@@ -1,44 +1,83 @@
-# TrainyX — Sistema de Performance Humana
-##### © 2025-2026 TrainyX Lab by SynergyXZK Infraestrutura. Todos os direitos reservados.
-***
+<p align="center"><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-synergy-brand.png" width="100%" alt="TrainyX conectado ao ecossistema SynergyXZK — branding oficial"></p>
 
-## 🏛️ Declaração Canônica de Propriedade Intelectual e Anterioridade
+<p align="center"><strong>The Intelligence Layer for Human Performance.</strong><br>Metodologia proprietária · Inteligência aplicada · Performance humana</p>
 
-Este perfil institucional e os ativos tecnológicos proprietários contidos nesta organização constituem a infraestrutura proprietária do **TrainyX** (Performance OS), sob a governança, propriedade e arquitetura estratégica de **Andreza Valen** e infraestrutura operacional da holding **SynergyXZK**. 
+<p align="center"><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-performance.gif" width="100%" alt="Human Performance Engineered by AI — Metodologia, Consistência e Evolução"></p>
 
-A engenharia de software, os modelos preditivos, a malha de agentes inteligência artificial e a metodologia de blindagem tecno-fisiológica contidos neste ecossistema possuem **anterioridade cronológica estrita, imutável e auditável via registros criptográficos de ledger Git**. 
+<p align="center"><a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/SynergyXZK"><strong>SynergyXZK ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/a-valen3"><strong>Andreza Valen ↗</strong></a></p>
 
-### 🗓️ Linha do Tempo e Metadados de Anterioridade (Gênese do Código)
+<p align="center"><a href="#proposito">Propósito</a> · <a href="#principios">Princípios</a> · <a href="#governanca">Governança</a> · <a href="#conexoes">Conexões</a></p>
 
-* **Gênese do Ecossistema:** 06 de Setembro de 2025.
-* **Commit Inicial de Arquitetura (MVP):** 2fc07d8
-* **Autor Registrado:** TreinozAI
-* **Escopo Registrado:** *Trainyx MVP - Aplicativo de fitness com inteligência artificial e treinos personalizados.*
-* **Volumetria de Engenharia Primária:** 37 arquivos alterados, contendo +25.461 linhas de código proprietário estruturado de boa-fé em regime privado.
+---
 
-### 🧠 A Arquitetura do Ecossistema TrainyX
+<a name="proposito"></a>
+<p><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-purpose.svg" width="100%" alt="Performance humana"></p>
 
-O TrainyX é uma infraestrutura de decisão prescritiva baseada em protocolos matemáticos e fisiológicos. O sistema elimina completamente o *Algorithmic Drift* (Deriva Algorítmica) de modelos generativos comerciais através de uma governança proprietária composta por uma malha de agentes especializados: 
+O **TrainyX** é um sistema de performance humana com IA orientada pela metodologia proprietária de **Andreza Valen**, fundadora e Chief Architect. Nasce de sua experiência com pessoas reais para enfrentar a crise de consistência no treinamento físico e transformar conhecimento especializado em acompanhamento estruturado.
 
-* **TX-KorteX:** O verdadeiro cérebro algorítmico do motor prescritivo e validação biomecânica. Ele é a digitalização exata da metodologia proprietária de força da Founder. Governa a *Anamnese Dinâmica v4.0* (Funil Clínico L1 a L4 / Portões *RED, YELLOW, GREEN*).
-* **TX-ThalamuX:** Agente de direcionamento, suporte contextual e experiência de alta fidelidade na ponta.
-* **TX-PreFrontaX & Nexor:** Inteligências executivas encarregadas da blindagem operacional, governança financeira e segurança do ecossistema.
-* **TX-LobuloX & TX-SynapseX:** Camada autônoma de feedback, controle de desvios, auditoria e supervisão interna do sistema.
+Como primeira concepção do ecossistema **SynergyXZK**, o TrainyX conecta metodologia, inteligência e governança em um **Performance OS**: uma estrutura para tornar o treinamento mais compreensível, individualizado e consistente.
 
-### 🛡️ Protocolo de Progressão Determinística (PDR) — As 4 Travas de Segurança
+> A tecnologia amplia o alcance. A experiência humana orienta as decisões.
 
-Toda a malha de agentes está sujeita às regras rígidas do kernel determinístico do TrainyX: 
+### TX-KorteX · Inteligência a serviço da metodologia
 
-1. **TRAVA 1 — Segurança Absoluta (Gate Clínico):** Bloqueio automático de sobrecarga se a Anamnese acusar risco lesivo ou se a consistência do usuário cair abaixo de 80%, forçando o protocolo a entrar em modo de manutenção.
-2. **TRAVA 2 — Circuit Breaker de Custo:** Telemetria de erro e controle de cotas de APIs e tokens em tempo real.
-3. **TRAVA 3 — Progressão por Fatos (Regra ≥ 80%):** O adensamento de carga (+5%) é calculado de forma matemática, condicionado estritamente à execução técnica real monitorada pelo *Player* de treino.
-4. **TRAVA 4 — Modo de Degradação Segura:** Rollback automatizado para a última versão estável e validada do plano em caso de falha ou latência na camada de inteligência.
+O **TX-KorteX** é o motor prescritivo do TrainyX. Sua direção combina conhecimento especializado, critérios de avaliação e regras de decisão para apoiar a construção e evolução dos protocolos de treinamento.
 
-### ⚖️ Notificação Legal de Uso, Direitos Autorais e Patentes
+**Segurança, privacidade e qualidade são compromissos de projeto, avaliados na prática e em cada evolução do sistema.**
 
-Os algoritmos, códigos-fonte, estruturas lógicas de banco de dados, nomes e funções de agentes (TX-KorteX, TX-ThalamuX, TX-PreFrontaX, Nexor, TX-LobuloX, TX-SynapseX), regras do protocolo PDR e marcas associadas ao ecossistema **TrainyX** são protegidos por leis de direitos autorais de software (Lei nº 9.609/98) e propriedade industrial. 
+<a name="principios"></a>
+<p><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-principles.svg" width="100%" alt="Metodologia e princípios"></p>
 
-* **Regime de Operação:** Todos os repositórios de produção permanecem sob estrito **Segredo Comercial Privado (Proprietary / Closed Source)**.
-* **Canais Oficiais:** [www.trainyx.xyz](https://www.trainyx.xyz) | Contact: contact@trainyx.xyz
+<details open>
+<summary><strong>Os fundamentos da experiência TrainyX</strong></summary>
 
-*Qualquer tentativa de engenharia reversa, duplicação de lógica, clonagem de interface (Liquid Metal Layer), apropriação dos nomes dos agentes ou uso indevido da marca TrainyX em soluções correlatas acionará imediatamente os mecanismos jurídicos baseados no Direito de Precedência Internacional e Uso Prévio de Boa-Fé demonstrado pelos registros de 2025 desta organização.*
+| Fundamento | Direção |
+| --- | --- |
+| **Metodologia proprietária** | Conhecimento especializado como referência para as decisões de treinamento. |
+| **Individualidade** | Considerar experiência, objetivos, contexto e evolução da pessoa. |
+| **Consistência** | Estruturar ciclos e acompanhamento para apoiar continuidade e aprendizado. |
+| **Inteligência com governança** | Delimitar o papel da IA, com avaliação e critérios de qualidade. |
+| **Privacidade e soberania** | Preservar controle sobre dados, regras e decisões do núcleo. |
+| **Simplicidade** | Tornar uma arquitetura complexa compreensível na experiência de uso. |
+
+</details>
+
+<details>
+<summary><strong>Método · Sistema · Infraestrutura</strong></summary>
+
+- **Método:** a experiência e o conhecimento que orientam o treinamento.
+- **Sistema:** a estrutura que permite aplicar e acompanhar a metodologia.
+- **Infraestrutura:** os fundamentos de operação, governança e evolução.
+
+Essa conexão sustenta nossa visão de longo prazo: ampliar o acompanhamento humano com qualidade, sem perder a coerência da metodologia.
+
+</details>
+
+<a name="governanca"></a>
+
+### Governança, autoria e propriedade intelectual
+
+**Founder & Chief Architect:** [Andreza Valen](https://github.com/a-valen3).  
+**Ecossistema:** [SynergyXZK](https://github.com/SynergyXZK).  
+**Gênese registrada do projeto:** 06/09/2025 · Commit inicial de referência: `2fc07d8` · Autor registrado: TreinozAI.
+
+O TrainyX desenvolve metodologia, software, arquitetura e identidade visual proprietários. Os repositórios de produção permanecem privados; este perfil apresenta a visão e os princípios do produto.
+
+A visualização deste perfil não concede autorização para reutilização de código, materiais, marcas ou metodologia. As condições aplicáveis são definidas pelas licenças e autorizações específicas de cada ativo.
+
+<a name="conexoes"></a>
+<p><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-resources.svg" width="100%" alt="Documentação e conexões"></p>
+
+| Canal | Acesso |
+| --- | --- |
+| **Produto** | [trainyx.xyz](https://trainyx.xyz/) |
+| **TrainyX** | [LinkedIn](https://www.linkedin.com/company/trainyx-lab/) · [Instagram](https://www.instagram.com/trainyx_oficial/) · [X](https://x.com/TrainyX_Oficial) · [Medium](https://trainyxlab-oficial.medium.com/) |
+| **SynergyXZK** | [GitHub](https://github.com/SynergyXZK) · [Instagram](https://www.instagram.com/synergyxzk_oficial/) · [X](https://x.com/SynergyXZK) · [Medium](https://synergyxzk.medium.com/) |
+| **Fundadora** | [Andreza Valen](https://github.com/a-valen3) · [LinkedIn](https://www.linkedin.com/in/a-valen/) |
+| **Contato** | [contact@trainyx.xyz](mailto:contact@trainyx.xyz) |
+
+---
+
+<p align="center"><strong>STRONGER HUMANS. A BRIGHTER TOMORROW.</strong><br>TrainyX · Uma concepção do ecossistema SynergyXZK.</p>
+
+*© 2025–2026 TrainyX Lab by SynergyXZK Infraestrutura. Todos os direitos reservados.*
