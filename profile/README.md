@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/TrainyX/.github/raw/a61dd58e821e8eb330bdb98cdff04baf69ddc8c3/trainyx-performance-hq.gif" width="100%" alt="Human Performance Engineered by AI — Metodologia, Consistência e Evolução"></p>
 
-<p align="center"><a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/SynergyXZK"><strong>SynergyXZK ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/a-valen3"><strong>Andreza Valen ↗</strong></a></p>
+<p align="center"><a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/SynergyXZK"><strong>SynergyXZK ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/a-valen3"><strong>Andrez Valen ↗</strong></a></p>
 
 <p align="center"><a href="#proposito">Propósito</a> · <a href="#principios">Princípios</a> · <a href="#governanca">Governança</a> · <a href="#conexoes">Conexões</a></p>
 
@@ -13,7 +13,7 @@
 <a name="proposito"></a>
 <p><img src="https://github.com/TrainyX/.github/raw/refs/heads/main/trainyx-purpose.svg" width="100%" alt="Performance humana"></p>
 
-O **TrainyX** é um sistema de performance humana com IA orientada pela metodologia proprietária de **Andreza Valen**, fundadora e Chief Architect. Nasce de sua experiência com pessoas reais para enfrentar a crise de consistência no treinamento físico e transformar conhecimento especializado em acompanhamento estruturado.
+O **TrainyX** é um sistema de performance humana com IA orientada pela metodologia proprietária de **Andrez Valen**, fundadora e Chief Architect. Nasce de sua experiência com pessoas reais para enfrentar a crise de consistência no treinamento físico e transformar conhecimento especializado em acompanhamento estruturado.
 
 Como primeira concepção do ecossistema **SynergyXZK**, o TrainyX conecta metodologia, inteligência e governança em um **Performance OS**: uma estrutura para tornar o treinamento mais compreensível, individualizado e consistente.
 
@@ -57,7 +57,7 @@ Essa conexão sustenta nossa visão de longo prazo: ampliar o acompanhamento hum
 
 ### Governança, autoria e propriedade intelectual
 
-**Founder & Chief Architect:** [Andreza Valen](https://github.com/a-valen3).  
+**Founder & Chief Architect:** [Andrez Valen](https://github.com/a-valen3).  
 **Ecossistema:** [SynergyXZK](https://github.com/SynergyXZK).  
 **Gênese registrada do projeto:** 06/09/2025 · Commit inicial de referência: `2fc07d8` · Autor registrado: TreinozAI.
 
@@ -73,7 +73,7 @@ A visualização deste perfil não concede autorização para reutilização de 
 | **Produto** | [trainyx.xyz](https://trainyx.xyz/) |
 | **TrainyX** | [LinkedIn](https://www.linkedin.com/company/trainyx-lab/) · [Instagram](https://www.instagram.com/trainyx_oficial/) · [X](https://x.com/TrainyX_Oficial) · [Medium](https://trainyxlab-oficial.medium.com/) |
 | **SynergyXZK** | [GitHub](https://github.com/SynergyXZK) · [Instagram](https://www.instagram.com/synergyxzk_oficial/) · [X](https://x.com/SynergyXZK) · [Medium](https://synergyxzk.medium.com/) |
-| **Fundadora** | [Andreza Valen](https://github.com/a-valen3) · [LinkedIn](https://www.linkedin.com/in/a-valen/) |
+| **Fundadora** | [Andrez Valen](https://github.com/a-valen3) · [LinkedIn](https://www.linkedin.com/in/a-valen/) |
 | **Contato** | [contact@trainyx.xyz](mailto:contact@trainyx.xyz) |
 
 ---
